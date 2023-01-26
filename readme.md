@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=500&section=header&text=자기소개&fontSize=100&animation=fadeIn&fontColor=DDDDDD)
-## 목차
+## **목차**
 > 이름
 > <br/>나이
 > <br/>중학교
@@ -19,3 +19,5 @@
 
 ## **마지막**
 > 잘부탁드립니다.
+
+

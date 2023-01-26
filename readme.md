@@ -13,7 +13,7 @@
 ## **중학교**
 >제가 다니는 중학교는 <span style="color:gray">**인천계수중학교**</span>입니다.
 ## **다닐 고등학교**
->제가 다닐 고등학교는 <span style="color:green">**경기게임 마이스터고**</span>입니다.
+>제가 다닐 고등학교는 <span style="color:green">**경기게임마이스터고**</span>입니다.
 
 ![alt text](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA1MDFfMTEg%2FMDAxNTg4MzE1Njg3NDE5.RzzFJNoNG9B-qD30HD3JEyOzUTKAFvTBNeyUgvEn62sg._KiXhurHugbVTNyTYDU8OMSdc69qPSvYULvOzY-lm2og.JPEG.goeay%2F%25B0%25E6%25B1%25E2%25B0%25D4%25C0%25D3%25B8%25B6%25C0%25CC%25BD%25BA%25C5%25CD%25B0%25ED%25B5%25EE%25C7%25D0%25B1%25B3.png&type=a340)
 
